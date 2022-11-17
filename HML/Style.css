@@ -1,0 +1,160 @@
+.kotak {
+    background-color:aqua;
+    border: 1px solid rgb(0, 0, 0);
+    width: 15px;
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    padding-left:50px;
+    padding-right: 50px;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline;
+}
+.numlock {
+background-color:aqua;
+border: 1px solid rgb(0, 0, 0);
+width: 115px;
+padding-top: 100px; 
+padding-bottom: 50px;
+padding-left: 50px;
+padding-right: 30px;
+text-align: center;
+font-size: 5px;
+margin-top: 40px;
+margin-left: 50px;
+display: inline;
+}
+.bawah{
+    background-color:aqua;
+    border: 1px solid rgb(0, 0, 0);
+    width: 115px;
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    padding-left:140px;
+    padding-right: 140px;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline;}
+    .kotak2 {
+        background-color:aqua;
+        border: 1px solid rgb(0, 0, 0);
+        width: 15px;
+        padding-top: 45px; 
+        padding-bottom: 175px;
+        padding-left:5px;
+        padding-right: 5px;
+        text-align: center;
+        font-size: 70px;
+        margin-top: 10px;
+        margin-left: 12px;
+        display: inline;}
+      
+        .atas{
+            background-color:aqua;
+            border: 1px solid rgb(0, 0, 0);
+            width: 115px;
+            padding-top: 20px; 
+            padding-bottom: 210px;
+            padding-left:40px;
+            padding-right: 40px;
+            text-align: center;
+            font-size: 100px;
+            margin-top: 10px;
+            margin-left: 20px;
+            display: inline;}
+            .kiri{
+                background-color:aqua;
+                border: 1px solid rgb(0, 0, 0);
+                width: 40px;
+                padding-top: 10px; 
+                padding-bottom: 35px;
+                padding-left:20px;
+                padding-right: 90px;
+                text-align: center;
+                font-size: 40px;
+                margin-top: 20px;
+                margin-left: 20px;
+                margin-bottom: 2;
+                display: inline-block;}
+                .kanan{
+                    background-color:aqua;
+                    border: 1px solid rgb(0, 0, 0);
+                    width: 115px;
+                    padding-top: 20px; 
+                    padding-bottom: 20px;
+                    padding-left:50px;
+                    padding-right: 70px;
+                    text-align: center;
+                    font-size: 100px;
+                    margin-top: 10px;
+                    margin-left: 20px;
+                    display: inline;}
+                    .riet{
+                        background-color:aqua;
+                        border: 1px solid rgb(0, 0, 0);
+                        width: 115px;
+                        padding-top: 20px; 
+                        padding-bottom: 20px;
+                        padding-left:50px;
+                        padding-right: 60px;
+                        text-align: center;
+                        font-size: 100px;
+                        margin-top: 10px;
+                        margin-left: 20px;
+                        display: inline;}
+                        .ms{
+                            background-color:aqua;
+                            border: 1px solid rgb(0, 0, 0);
+                            width: 115px;
+                            padding-top: 50px; 
+                            padding-bottom: 20px;
+                            padding-left:50px;
+                            padding-right: 170px;
+                            text-align: center;
+                            font-size: 50px;
+                            margin-top: 10px;
+                            margin-left: 20px;
+                            height:50%;
+                            display: inline;}
+                            .mk{
+                                background-color:aqua;
+                                border: 1px solid rgb(0, 0, 0);
+                                width: 115px;
+                                padding-top: 68px; 
+                                padding-bottom: 20px;
+                                padding-left:20px;
+                                padding-right: 60px;
+                                text-align: center;
+                                font-size: 30px;
+                                margin-top: 10px;
+                                margin-left: 20px;
+                                height:50%;
+                                display: inline;}
+
+                        .kotak-numlock
+                        {
+                            
+                            margin-top:5px;
+                            margin-bottom:10px;
+                            margin-left:20px;
+
+                            padding-top:5px;
+                            padding-bottom:5px;
+                            padding-left:1px;
+                            padding-right:20px;
+
+                            display: inline-block;
+                            
+                            height:50px;
+                            width:50;
+                            text-align:center;
+                        }
+                        .numlock
+                        {
+                            font-size:35%;
+                            display: inline;
+                        }
